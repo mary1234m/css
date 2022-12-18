@@ -1,0 +1,166 @@
+body
+{
+	direction:rtl;
+}
+#main
+{
+	width:960px;
+	height:2000px;
+	margin:auto;
+	border:solid;
+	background-color:hotpink;
+}
+#div1
+{
+	border-bottom:solid;
+	background-color:rebeccapurple;
+	padding-top:10px;
+	padding-bottom:90px;
+	height:20px;
+	text-align:center;
+}
+#header
+{
+	width:960px;
+	height:160px;
+	border-bottom:solid;
+	text-align:center;
+}
+.imgm
+{
+	border:thick;
+	width:170px;
+	height:170px;
+}
+#menu
+{
+     list-style-type:none;
+     font-family:B Koodak;
+	 font-size:30px;
+}
+#menu li
+{
+	display:inline;
+	float:center;
+	margin:50px;
+}
+#menu li a
+{
+	color:red;
+	text-decoration:none;
+}
+#title
+{
+	font-family:B mehr;
+	font-size:40px;
+}
+#jadid
+{
+	padding-right:30px;
+	font-family:B koodak;
+	font-size:20px;
+}
+.Andaze
+{
+	width:200px;
+	height:200px;
+	padding-right:85px;
+}
+.nam
+{
+	font-family:B Koodak;
+	font-size:20px;
+	padding-right:85px;
+}
+#nam1
+{
+	padding-right:105px;
+}
+#nam2
+{
+	padding-right:135px;
+}
+#nam3
+{
+	padding-right:85px;
+}
+#nam4
+{
+	padding-right:145px;
+}
+#nam5
+{
+	padding-right:145px;
+}
+#nam6
+{
+	padding-right:125px;
+}
+#nam7
+{
+	padding-right:147px;
+}
+#nam8
+{
+	padding-right:150px;
+}
+#nam9
+{
+	padding-right:70px;
+}
+#nam10
+{
+	padding-right:130px;
+}
+#nam11
+{
+	padding-right:165px;
+}
+#divm
+{
+	border-top:dashed;
+	background-color:white;
+}
+.line
+{
+	 width:100px;
+	 height:100px;
+	 display:inline;
+	 padding-right:28px;
+}
+#div2
+{
+	border-top:dashed;
+	border-bottom:dashed;
+}
+#txtar
+{
+	height:80px;
+	margin-right:150px;
+}
+#sabtenam
+{
+	width:100px;
+	height:100px;
+	font-family:B Koodak;
+	font-size:20px;
+	margin-right:200px;
+}
+#enseraf
+{
+	width:100px;
+	height:100px;
+	font-family:B Koodak;
+	font-size:20px;
+	margin-right:300px;
+}
+.darbare
+{
+	font-family:B Koodak;
+	font-size:20px;
+	margin-right:50px;
+}
+#tel
+{
+	padding-right:200px;
+}
